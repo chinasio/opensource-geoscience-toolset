@@ -34,3 +34,6 @@ list of open source tools for geoscience
 ### 地形数据
 - [GEBCO](https://www.gebco.net/) - 全球地形数据，陆地地形来自SRTM 90m 数据源，海底数据融合了单波束、多波束和卫星测高反演海底地形数据。2019年版本的分辨率为15′。
 - [GRMT](https://www.gmrt.org/GMRTMapTool/?) - The Global Multi-Resolution Topography (GMRT) Synthesis is maintained as a multi-resolution gridded global Digital Elevation Model (DEM) that includes cleaned processed ship-based multibeam sonar data at their full spatial resolution (~100m in the deep sea).
+### 矢量数据
+- [Natural Earth](https://github.com/nvkelso/natural-earth-vector) - Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales.
+
